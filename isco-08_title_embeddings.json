@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ISCO-08 Group",
+      "tensorShape": [
+        436,
+        3072
+      ],
+      "tensorPath": "https://webapps.ilo.org/ilostat/tools/EmbeddingProjector/title_embeddings.tsv",
+      "metadataPath": "https://webapps.ilo.org/ilostat/tools/EmbeddingProjector/code_title_group.tsv"
+    }
+  ]
+}
