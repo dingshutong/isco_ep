@@ -6,8 +6,8 @@
         436,
         3072
       ],
-      "tensorPath": "https://webapps.ilo.org/ilostat/tools/EmbeddingProjector/title_embeddings.tsv",
-      "metadataPath": "https://webapps.ilo.org/ilostat/tools/EmbeddingProjector/code_title_group.tsv"
+      "tensorPath": "https://github.com/dingshutong/isco_ep/blob/3a538058f4338bba83af0f1963d58f587b0cef50/title_embeddings.tsv",
+      "metadataPath": "https://github.com/dingshutong/isco_ep/blob/3a538058f4338bba83af0f1963d58f587b0cef50/code_title_group.tsv"
     }
   ]
 }
